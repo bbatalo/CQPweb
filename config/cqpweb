@@ -5,7 +5,7 @@ server {
 	root /var/www/cqpweb.corpuslinguist.com/;
 	index index.php index.html index.html index.nginx-debian.html;
 
-	server_name cqpweb.corpuslinguist.com www.cqpweb.corpuslinguist.com;
+	server_name cqpweb.com www.cqpweb.com;
 
 	location / {
 		try_files $uri $uri/ =404;
