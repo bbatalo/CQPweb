@@ -41,4 +41,4 @@ _Note: Official instructions recommend Apache webserver, but here we assume Ngin
 
 Follow instructions provided in official CQPweb admin manual: <https://cwb.sourceforge.io/files/CQPwebAdminManual.pdf>.
 
-Otherwise, go to companion repository containing Terraform scripts for (semi)-automatic deployment - <https://github.com/bbatalo/CQPweb-deploy>
+Otherwise, go to companion repository containing Terraform scripts for (semi)-automatic deployment - <https://github.com/bbatalo/CQPweb-deploy>.
